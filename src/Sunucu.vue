@@ -15,7 +15,7 @@
     export default {
         data: function () {
             return {
-                sunucu_status: "Sunucu Durumu",
+                sunucu_status: "Sunucu Durumu", 
             };
         }
     };
